@@ -1,0 +1,9 @@
+﻿  7week.c
+C:\Users\ars01\source\repos\7week\7week.c(7,36): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\ars01\source\repos\7week\7week.c(44,37): warning C4047: функция: "HCRYPTPROV" отличается по уровням косвенного обращения от "void *"
+C:\Users\ars01\source\repos\7week\7week.c(44,33): warning C4024: CryptGenRandom: различные типы для формального и фактического параметров 1
+C:\Users\ars01\source\repos\7week\7week.c(47,42): warning C4047: функция: "HCRYPTPROV" отличается по уровням косвенного обращения от "void *"
+C:\Users\ars01\source\repos\7week\7week.c(47,38): warning C4024: CryptReleaseContext: различные типы для формального и фактического параметров 1
+C:\Users\ars01\source\repos\7week\7week.c(78,16): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\ars01\source\repos\7week\7week.c(25,33): warning C4244: инициализация: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+  7week.vcxproj -> C:\Users\ars01\source\repos\7week\x64\Debug\7week.exe
